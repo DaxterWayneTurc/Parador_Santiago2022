@@ -1,0 +1,625 @@
+C:\Users\DELL\source\repos\Parador\Parador\obj\Debug\Parador.Frm_login.resources
+C:\Users\DELL\source\repos\Parador\Parador\obj\Debug\Parador.Properties.Resources.resources
+C:\Users\DELL\source\repos\Parador\Parador\obj\Debug\Parador.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Parador\Parador\obj\Debug\Parador.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Parador\Parador\bin\Debug\Parador.exe.config
+C:\Users\DELL\source\repos\Parador\Parador\bin\Debug\Parador.exe
+C:\Users\DELL\source\repos\Parador\Parador\bin\Debug\Parador.pdb
+C:\Users\DELL\source\repos\Parador\Parador\obj\Debug\Parador.exe
+C:\Users\DELL\source\repos\Parador\Parador\obj\Debug\Parador.pdb
+C:\Users\DELL\source\repos\Parador\Parador\obj\Debug\Parador.FrmPrincipal.resources
+C:\Users\DELL\source\repos\Parador\Parador\obj\Debug\Parador.FrmCaja.resources
+C:\Users\DELL\source\repos\Parador\Parador\obj\Debug\Parador.FrmMenu.resources
+C:\Users\DELL\source\repos\Parador\Parador\obj\Debug\Parador.FrmMesas.resources
+C:\Users\DELL\source\repos\Parador\Parador\obj\Debug\Parador.csprojAssemblyReference.cache
+C:\Users\Cristobal\Desktop\Parador\Parador\bin\Debug\Parador.exe.config
+C:\Users\Cristobal\Desktop\Parador\Parador\bin\Debug\Parador.exe
+C:\Users\Cristobal\Desktop\Parador\Parador\bin\Debug\Parador.pdb
+C:\Users\Cristobal\Desktop\Parador\Parador\bin\Debug\MetroFramework.dll
+C:\Users\Cristobal\Desktop\Parador\Parador\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Cristobal\Desktop\Parador\Parador\obj\Debug\Parador.csprojAssemblyReference.cache
+C:\Users\Cristobal\Desktop\Parador\Parador\obj\Debug\Parador.Frm_Usuarios.resources
+C:\Users\Cristobal\Desktop\Parador\Parador\obj\Debug\Parador.FrmMenu.resources
+C:\Users\Cristobal\Desktop\Parador\Parador\obj\Debug\Parador.FrmMesas.resources
+C:\Users\Cristobal\Desktop\Parador\Parador\obj\Debug\Parador.FrmPrincipal.resources
+C:\Users\Cristobal\Desktop\Parador\Parador\obj\Debug\Parador.Frm_login.resources
+C:\Users\Cristobal\Desktop\Parador\Parador\obj\Debug\Parador.Properties.Resources.resources
+C:\Users\Cristobal\Desktop\Parador\Parador\obj\Debug\Parador.csproj.GenerateResource.cache
+C:\Users\Cristobal\Desktop\Parador\Parador\obj\Debug\Parador.csproj.CoreCompileInputs.cache
+C:\Users\Cristobal\Desktop\Parador\Parador\obj\Debug\Parador.csproj.CopyComplete
+C:\Users\Cristobal\Desktop\Parador\Parador\obj\Debug\Parador.exe
+C:\Users\Cristobal\Desktop\Parador\Parador\obj\Debug\Parador.pdb
+C:\Users\DELL\Desktop\Parador\Parador\bin\Debug\Parador.exe.config
+C:\Users\DELL\Desktop\Parador\Parador\bin\Debug\Parador.exe
+C:\Users\DELL\Desktop\Parador\Parador\bin\Debug\Parador.pdb
+C:\Users\DELL\Desktop\Parador\Parador\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Desktop\Parador\Parador\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Desktop\Parador\Parador\obj\Debug\Parador.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Parador\Parador\obj\Debug\Parador.Frm_Usuarios.resources
+C:\Users\DELL\Desktop\Parador\Parador\obj\Debug\Parador.FrmOrden.resources
+C:\Users\DELL\Desktop\Parador\Parador\obj\Debug\Parador.FrmMesas.resources
+C:\Users\DELL\Desktop\Parador\Parador\obj\Debug\Parador.FrmPrincipal.resources
+C:\Users\DELL\Desktop\Parador\Parador\obj\Debug\Parador.Frm_login.resources
+C:\Users\DELL\Desktop\Parador\Parador\obj\Debug\Parador.Properties.Resources.resources
+C:\Users\DELL\Desktop\Parador\Parador\obj\Debug\Parador.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Parador\Parador\obj\Debug\Parador.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Parador\Parador\obj\Debug\Parador.csproj.CopyComplete
+C:\Users\DELL\Desktop\Parador\Parador\obj\Debug\Parador.exe
+C:\Users\DELL\Desktop\Parador\Parador\obj\Debug\Parador.pdb
+C:\Users\DELL\Desktop\Parador\Parador\obj\Debug\Parador.Frm_Mesas.resources
+G:\Parador\Parador\bin\Debug\Parador.exe.config
+G:\Parador\Parador\bin\Debug\Parador.exe
+G:\Parador\Parador\bin\Debug\Parador.pdb
+G:\Parador\Parador\bin\Debug\MetroFramework.dll
+G:\Parador\Parador\bin\Debug\MetroFramework.Fonts.dll
+G:\Parador\Parador\obj\Debug\Parador.csprojAssemblyReference.cache
+G:\Parador\Parador\obj\Debug\Parador.frmFactura.resources
+G:\Parador\Parador\obj\Debug\Parador.Frm_Mesas.resources
+G:\Parador\Parador\obj\Debug\Parador.Frm_Usuarios.resources
+G:\Parador\Parador\obj\Debug\Parador.FrmOrden.resources
+G:\Parador\Parador\obj\Debug\Parador.FrmMesas.resources
+G:\Parador\Parador\obj\Debug\Parador.FrmPrincipal.resources
+G:\Parador\Parador\obj\Debug\Parador.Frm_login.resources
+G:\Parador\Parador\obj\Debug\Parador.Properties.Resources.resources
+G:\Parador\Parador\obj\Debug\Parador.csproj.GenerateResource.cache
+G:\Parador\Parador\obj\Debug\Parador.csproj.CoreCompileInputs.cache
+G:\Parador\Parador\obj\Debug\Parador.csproj.CopyComplete
+G:\Parador\Parador\obj\Debug\Parador.exe
+G:\Parador\Parador\obj\Debug\Parador.pdb
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Parador.exe.config
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Parador.exe
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Parador.pdb
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.frmFactura.resources
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.Frm_Mesas.resources
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.Frm_Usuarios.resources
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.FrmOrden.resources
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.FrmMesas.resources
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.FrmPrincipal.resources
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.Frm_login.resources
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.Properties.Resources.resources
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.csproj.CopyComplete
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.exe
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.pdb
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\obj\Debug\Parador.exe.config
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\EnvDTE.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\stdole.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\EnvDTE80.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\VSLangProj.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\VSLangProj80.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\VSLangProj2.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\DELL\Downloads\Proyecto_Parador-master\Parador\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Parador.exe.config
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Parador.exe
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Parador.pdb
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\MetroFramework.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\EnvDTE.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\stdole.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\obj\Debug\Parador.csprojAssemblyReference.cache
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\obj\Debug\Parador.frmFactura.resources
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\obj\Debug\Parador.Frm_Mesas.resources
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\obj\Debug\Parador.Frm_Usuarios.resources
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\obj\Debug\Parador.FrmOrden.resources
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\obj\Debug\Parador.FrmPrincipal.resources
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\obj\Debug\Parador.Frm_login.resources
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\obj\Debug\Parador.Properties.Resources.resources
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\obj\Debug\Parador.csproj.GenerateResource.cache
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\obj\Debug\Parador.csproj.CoreCompileInputs.cache
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\obj\Debug\Parador.csproj.CopyComplete
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\obj\Debug\Parador.exe
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\obj\Debug\Parador.pdb
+C:\Users\Cristobal\Downloads\Parador_Santiago-master\Parador\obj\Debug\Parador.frm_Historial.resources
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.exe.config
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.frmFactura.resources
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.frm_Historial.resources
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.Frm_Mesas.resources
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.Frm_Usuarios.resources
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.FrmOrden.resources
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.FrmPrincipal.resources
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.Frm_login.resources
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.Properties.Resources.resources
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.exe
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.pdb
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Parador.exe.config
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Parador.exe
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Parador.pdb
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\EnvDTE.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\stdole.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\EnvDTE80.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\VSLangProj.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\VSLangProj80.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\VSLangProj2.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.csproj.CopyComplete
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.Frm_AdminMenu.resources
+C:\Users\DELL\Documents\Tesis\Parador_Santiago-master\Parador\obj\Debug\Parador.Frm_Parallevar.resources
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Parador.exe.config
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Parador.exe
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Parador.pdb
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\MetroFramework.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\EnvDTE.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\stdole.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.csprojAssemblyReference.cache
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.frmFactura.resources
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.Frm_AdminMenu.resources
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.frm_Historial.resources
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.Frm_Mesas.resources
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.Frm_Parallevar.resources
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.Frm_Usuarios.resources
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.FrmOrden.resources
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.FrmPrincipal.resources
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.Frm_login.resources
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.Properties.Resources.resources
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.csproj.GenerateResource.cache
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.csproj.CoreCompileInputs.cache
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.csproj.CopyComplete
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.exe
+C:\Users\Cristobal\Downloads\ProyectoParador2022-master\Parador\obj\Debug\Parador.pdb
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Parador.exe.config
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Parador.exe
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Parador.pdb
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\MetroFramework.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\EnvDTE.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\stdole.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.csprojAssemblyReference.cache
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.frmFactura.resources
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.Frm_AdminMenu.resources
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.frm_Historial.resources
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.Frm_Mesas.resources
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.Frm_Parallevar.resources
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.Frm_Usuarios.resources
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.FrmOrden.resources
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.FrmPrincipal.resources
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.Frm_login.resources
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.Properties.Resources.resources
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.csproj.GenerateResource.cache
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.csproj.CoreCompileInputs.cache
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.csproj.CopyComplete
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.exe
+C:\Users\Cristobal\Downloads\ProyectoParador 2022 - 17 enero\Parador\obj\Debug\Parador.pdb
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Parador.exe.config
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Parador.exe
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Parador.pdb
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\EnvDTE.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\stdole.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\EnvDTE80.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\VSLangProj.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\VSLangProj80.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\VSLangProj2.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.exe.config
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.frmFactura.resources
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.Frm_AdminMenu.resources
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.frm_Historial.resources
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.Frm_Mesas.resources
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.Frm_Parallevar.resources
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.Frm_Usuarios.resources
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.FrmOrden.resources
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.FrmPrincipal.resources
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.Frm_login.resources
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.Properties.Resources.resources
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.csproj.CopyComplete
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.exe
+C:\Users\DELL\Documents\Tesis\ProyectoParador 2022 - 19 enero\Parador\obj\Debug\Parador.pdb

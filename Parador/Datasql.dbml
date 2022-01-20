@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Parador_SanTiago" Class="DatasqlDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=Parador_SanTiago;Integrated Security=True" SettingsObjectName="Parador.Properties.Settings" SettingsPropertyName="Parador_SanTiagoConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbl_Estado" Member="tbl_Estado">
+    <Type Name="tbl_Estado">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Estado" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="tbl_Estado_tblFacturas" Member="tblFacturas" ThisKey="Id" OtherKey="IdEstado" Type="tblFacturas" />
+      <Association Name="tbl_Estado_tbl_FechaClientes" Member="tbl_FechaClientes" ThisKey="Id" OtherKey="IdEstado" Type="tbl_FechaClientes" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblDetallePedido" Member="tblDetallePedido">
+    <Type Name="tblDetallePedido">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IdPedido" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IdMenu" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Cantidad" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="tblMenu_tblDetallePedido" Member="tblMenu" ThisKey="IdMenu" OtherKey="Id" Type="tblMenu" IsForeignKey="true" />
+      <Association Name="tblPedidos_tblDetallePedido" Member="tblPedidos" ThisKey="IdPedido" OtherKey="Id" Type="tblPedidos" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblFacturaDetalle" Member="tblFacturaDetalle">
+    <Type Name="tblFacturaDetalle">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Cantidad" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Subtotal" Type="System.Decimal" DbType="Decimal(10,2) NOT NULL" CanBeNull="false" />
+      <Column Name="IdFactura" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="tblFacturas_tblFacturaDetalle" Member="tblFacturas" ThisKey="IdFactura" OtherKey="Id" Type="tblFacturas" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblMenu" Member="tblMenu">
+    <Type Name="tblMenu">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Descripcion" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Valor" Type="System.Decimal" DbType="Decimal(10,2) NOT NULL" CanBeNull="false" />
+      <Column Name="Estado" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="tblMenu_tblDetallePedido" Member="tblDetallePedido" ThisKey="Id" OtherKey="IdMenu" Type="tblDetallePedido" />
+      <Association Name="tblMenu_tblFacturas" Member="tblFacturas" ThisKey="Id" OtherKey="IdMenu" Type="tblFacturas" />
+      <Association Name="tblMenu_tbl_FechaClientes" Member="tbl_FechaClientes" ThisKey="Id" OtherKey="IdMenu" Type="tbl_FechaClientes" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblMesas" Member="tblMesas">
+    <Type Name="tblMesas">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Descripcion" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Imagen" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Association Name="tblMesas_tblFacturas" Member="tblFacturas" ThisKey="Id" OtherKey="IdMesa" Type="tblFacturas" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblPedidos" Member="tblPedidos">
+    <Type Name="tblPedidos">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IdMesaOcupacion" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IdMesero" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="tblPedidos_tblDetallePedido" Member="tblDetallePedido" ThisKey="Id" OtherKey="IdPedido" Type="tblDetallePedido" />
+      <Association Name="tblMeseros_tblPedidos" Member="tblMeseros" ThisKey="IdMesero" OtherKey="Id" Type="tblMeseros" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblMeseros" Member="tblMeseros">
+    <Type Name="tblMeseros">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="tblMeseros_tblPedidos" Member="tblPedidos" ThisKey="Id" OtherKey="IdMesero" Type="tblPedidos" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblUsuarios" Member="tblUsuarios">
+    <Type Name="tblUsuarios">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Usuario" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Clave" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Estado" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblFacturas" Member="tblFacturas">
+    <Type Name="tblFacturas">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IdMesa" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IdMenu" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IdEstado" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="FechaHoraInicio" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="FechaHoraFin" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tblFacturas_tblFacturaDetalle" Member="tblFacturaDetalle" ThisKey="Id" OtherKey="IdFactura" Type="tblFacturaDetalle" />
+      <Association Name="tbl_Estado_tblFacturas" Member="tbl_Estado" ThisKey="IdEstado" OtherKey="Id" Type="tbl_Estado" IsForeignKey="true" />
+      <Association Name="tblMenu_tblFacturas" Member="tblMenu" ThisKey="IdMenu" OtherKey="Id" Type="tblMenu" IsForeignKey="true" />
+      <Association Name="tblMesas_tblFacturas" Member="tblMesas" ThisKey="IdMesa" OtherKey="Id" Type="tblMesas" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Vista_Menu2" Member="Vista_Menu2">
+    <Type Name="Vista_Menu2">
+      <Column Name="Descripcion" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Valor" Type="System.Decimal" DbType="Decimal(10,2) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Vista_Historial" Member="Vista_Historial">
+    <Type Name="Vista_Historial">
+      <Column Name="Descripcion" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Estado" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Color_states" Member="Color_states">
+    <Type Name="Color_states">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Descripcion" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="IdEstado" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbl_FechaClientes" Member="tbl_FechaClientes">
+    <Type Name="tbl_FechaClientes">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IdCliente" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IdMenu" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IdEstado" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Fecha" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="tbl_Estado_tbl_FechaClientes" Member="tbl_Estado" ThisKey="IdEstado" OtherKey="Id" Type="tbl_Estado" IsForeignKey="true" />
+      <Association Name="tblMenu_tbl_FechaClientes" Member="tblMenu" ThisKey="IdMenu" OtherKey="Id" Type="tblMenu" IsForeignKey="true" />
+      <Association Name="tblCliente_tbl_FechaClientes" Member="tblCliente" ThisKey="IdCliente" OtherKey="Id" Type="tblCliente" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblCliente" Member="tblCliente">
+    <Type Name="tblCliente">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IdCliente" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="tblCliente_tbl_FechaClientes" Member="tbl_FechaClientes" ThisKey="Id" OtherKey="IdCliente" Type="tbl_FechaClientes" />
+    </Type>
+  </Table>
+  <Function Name="dbo.Change" Method="Change">
+    <Parameter Name="Id" Parameter="id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.Search" Method="Search">
+    <Parameter Name="xxx" Type="System.String" DbType="NVarChar(20)" />
+    <ElementType Name="SearchResult">
+      <Column Name="Descripcion" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Valor" Type="System.Decimal" DbType="Decimal(10,2) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.show_menu" Method="show_menu">
+    <Parameter Name="idmesa" Type="System.Int32" DbType="Int" />
+    <ElementType Name="show_menuResult">
+      <Column Name="Orden" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>
